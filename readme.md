@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>Android Studio<td>
-    <td>Java JDK <td>
+    <td>Java JDK ☕<td>
   </tr>
   <tr>
     <td>2020.3.1<td>
