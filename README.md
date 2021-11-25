@@ -14,7 +14,7 @@
 * Entra com a sequência de cores do resistor, o software mostra de quantos Ohm é o referido resistor.
 * O software pode levar-te para um site onde se verifica se aquele resistor é comercializado.
 
-### Tecnologia Utilizada 📳:
+### Tecnologias Utilizadas 📳:
 <table>
   <tr>
     <td>Android Studio<td>
